@@ -4,14 +4,14 @@ This is a choc only wireless split keyboard with pro micro compatible sockets. I
 
 The pro micro socket has a bit more width spacing to support the bluemicro840's 20mm width. I've only tested this keyboard with ZMK firmware but it should work for QMK as well since I've put in a slot for the TRRS jacks. Keyboard doesn't have a name so feel free to remove or change the silkscreen on the PCB!
 
-## Photos
-
-![](docs/images/gallery/main.jpg)
-![](docs/images/gallery/sideview.jpg)
-![](docs/images/gallery/schematics.svg)
-
 ## Build log/guide
 
 1. [Materials](docs/materials.md)
 2. [Building the Keyboard](docs/buildguide.md)
 3. [Firmware](docs/firmware.md)
+
+## Photos
+
+![](docs/images/gallery/main.jpg)
+![](docs/images/gallery/sideview.jpg)
+![](docs/images/gallery/schematics.svg)
